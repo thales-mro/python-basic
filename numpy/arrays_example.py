@@ -4,7 +4,7 @@ print("Creating array of zeros")
 a = np.zeros(shape=(3, 2))
 print(a)
 
-print("Setting elements in array:");
+print("Setting elements in array:")
 a[0] = [1, 2]
 a[1] = [3, 4]
 a[2][0] = 9
